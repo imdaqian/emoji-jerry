@@ -1,0 +1,12 @@
+
+opensource
+author jerry
+
+About the project
+
+    expect junit, there is no others dependencies about the project.
+
+How to use:
+        1. u must deploy your x file (your dictionary file saved {emoji-code    emoji-description   emoji-url}, the format is required)
+        2. EmojiManager emojiReplace = EmojiManager.getEmojiReplaceInstance();
+        3. String result = emojiReplace.emojiHappy(input)
